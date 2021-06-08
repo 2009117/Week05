@@ -18,10 +18,10 @@ int main(void) {
   Tn= (Natalia/Total)*100;
   Ti= (Ilse/Total)*100;
 
-  printf("El total es %0.2f\n ", Total);
-  printf("Ashley aportó el %0.2f\n ", Ta);
-  printf("Natalia aportó el %0.2f\n", Tn);
-  printf("Ilse aportó el %0.2f\n", Ti);
+  printf("El total es %0.4f\n ", Total);
+  printf("Ashley aportó el %0.4f\n ", Ta);
+  printf("Natalia aportó el %0.4f\n", Tn);
+  printf("Ilse aportó el %0.4f\n", Ti);
 
-  return 0;
+
 }
