@@ -4,19 +4,19 @@
 
 int main() {
 
-float horas, minutos, segundos;
+float H, M, S;
 
 printf("Ingresar segundos: ");
 
-scanf("%f",&segundos);
+scanf("%f",&S);
 
-horas = (segundos/3600);
+H = (S/3600);
 
-minutos = (segundos/60);
+M = (S/60);
 
-printf("Horas : %.0f\n",horas);
+printf("Horas : %.0f\n",H);
 
-printf("Minutos : %.0f\n",minutos);
+printf("Minutos : %.0f\n",M);
 
 return 0;
 
