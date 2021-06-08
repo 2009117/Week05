@@ -1,4 +1,7 @@
 #include<stdio.h>
+/*
+Here, we assing 3 variables, for the hours, Minutes and Seconds. Then we put the formula to the convertion each part.
+*/
 
 
 int main() {

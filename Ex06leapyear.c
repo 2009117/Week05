@@ -1,7 +1,10 @@
 #include <stdio.h>
+/*
+The program ask you about your year of birth, then the program scan it and solve some operations that help us to define of the year is a leap year.
+*/
 
-int X;
 int main(void) {
+int  X;
   printf("Inserta tu año de nacimiento\n");
   scanf("%d",&X);
 

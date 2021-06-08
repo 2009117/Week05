@@ -1,4 +1,7 @@
 #include <stdio.h>
+/*
+Your have to introduce the following values. Also there are 4 variables, that represent each part of the formula for the cylinder.
+*/
 
 
 int main() {

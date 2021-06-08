@@ -1,4 +1,7 @@
 #include<stdio.h>
+/*
+In the following program, just we need to assing two variables "X" and "Y", that X, help us to multiply for the rest of the operation, where Y is the result of the operation. 
+*/
 
 int main(void){
   float X,   Y;
