@@ -23,5 +23,5 @@ int main(void) {
   printf("Natalia aportó el %0.4f\n", Tn);
   printf("Ilse aportó el %0.4f\n", Ti);
 
-
+return 0;
 }
