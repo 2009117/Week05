@@ -9,5 +9,5 @@ int main(void){
 
 printf("El resultado es %.4f", Y);
 
-  return 0;
+
 }
